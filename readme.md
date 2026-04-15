@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Joffre Steven Verdezoto Tejena
+- **Carrera**: Ingeniería en Informática
+- **Fecha de entrega**: 22/4/2026
 
 ---
 
